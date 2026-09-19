@@ -1,0 +1,6 @@
+Scenario,Average_Predicted_Churn_Probability,Predicted_Churn_Rate_%,Change_From_Normal,Percentage_Change_From_Normal,Customers_Changed,Percentage_Changed,Switched_To_Churn,Percentage_Switched_To_Churn
+Normal,0.2686,22.4273,0.0,0.0,0,0.0,0,0.0
++5%,0.2704,22.7821,0.0018,0.6784,5,0.3549,5,0.3549
++10%,0.2723,23.2079,0.0036,1.3581,11,0.7807,11,0.7807
++15%,0.2741,23.4918,0.0055,2.0392,15,1.0646,15,1.0646
++20%,0.2759,23.5628,0.0073,2.7214,16,1.1356,16,1.1356
