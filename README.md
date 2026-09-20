@@ -318,7 +318,7 @@ Clone the repository:
 
 ```bash
 git clone <your-repository-url>
-cd week2_telco_stress_test
+cd Telco_Churn_Stress_Test
 ```
 
 Install the required libraries:
@@ -330,13 +330,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib
 Place the dataset at:
 
 ```text
-data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+data/WA_Fn-UseC_-Telco-Customer-Churn.csv
 ```
 
 Then open:
 
 ```text
-notebook/Week2_Telco_Churn_Stress_Test.ipynb
+notebook/Telco_Churn_Stress_Test.ipynb
 ```
 
 Run the notebook cells sequentially.
